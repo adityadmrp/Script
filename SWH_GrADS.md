@@ -13,7 +13,6 @@ set gxout shaded
 set ccols 4 3 7 8 2 9 6
 set clevs 0.5 1.25 2.5 4 6 9   
 set csmooth on
-#d swh
 d swh1
 cbar
 draw title Tinggi Gelombang Signifikan
